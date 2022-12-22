@@ -1,7 +1,9 @@
 # front-running-bot
 A front-running bot on Ethereum
 
- The bot will front-run the transaction of @EthernityChain $ERN Token (ERN) on uniswap.
+ The bot will front-run the transaction of any token on uniswap and pancakeswap.
+ 
+ The default token is @EthernityChain $ERN Token (ERN).
 
  # env file
  PRIVATE_KEY: The private key of your wallet.
